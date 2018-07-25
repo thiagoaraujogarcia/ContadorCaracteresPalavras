@@ -1,2 +1,0 @@
-# ContadorCaracteresPalavras
-Created with CodeSandbox
